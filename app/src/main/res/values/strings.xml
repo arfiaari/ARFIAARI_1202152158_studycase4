@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">arfiaariprabowo_1202152158_studycase4</string>
+    <string-array name="mahasiswa">
+        <item>Optimus Prime</item>
+        <item>Sentinel Prime</item>
+        <item>Bumblebee</item>
+        <item>Ironhide</item>
+        <item>Jazz</item>
+        <item>Ratchet</item>
+        <item>Acree</item>
+        <item>Sideswipe</item>
+        <item>Jetfire</item>
+        <item>Jolt</item>
+        <item>Skid</item>
+        <item>Mudflap</item>
+        <item>Megatron</item>
+        <item>Barricade</item>
+        <item>Blackout</item>
+        <item>Bonecrusher</item>
+        <item>Brawl</item>
+        <item>Frenzy</item>
+        <item>Scorponok</item>
+        <item>Starscream</item>
+    </string-array>
+</resources>
